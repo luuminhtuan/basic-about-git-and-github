@@ -1,0 +1,17 @@
+﻿git init -> tạo repository
+
+git add .
+
+git status -> xem trạng thái
+
+git commit -a -m "..." -> add vào commit
+
+git log
+
+git push ... -> đẩy lên github
+
+git clone -> tải về
+
+git revert + id -> back up (ctrl+c -> shift + ; -> q enter)
+
+git pull -> kéo project về
